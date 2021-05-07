@@ -3,4 +3,4 @@
 ## Description ## 
 Holt-Winters Forecasting (HWF) method, also known as, triple exponential smoothing, uses a more complicated approach compared to moving averages, trend forecast and Centered Moving Average (CMA). 
 
-For this small project, I used HWF for forecasting Amazon's quarterly financial data and predcited the resulting trend of next year. HWF was used to account for the seasonal variations of the data.
+For this small project, I used HWF for forecasting Amazon's quarterly financial data and predicted the resulting trend of next year. HWF was used to account for the seasonal variations of the data.
